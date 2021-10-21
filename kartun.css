@@ -108,7 +108,7 @@ h1 {
 
 /*ini bagian main body*/
 .mainbody {
-	background-image: url(gambar/tree.jpg);
+	background-image: url(tree.jpg);
 	background-position: center;
 	margin-right: 300px;
 }
